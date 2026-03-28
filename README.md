@@ -1,4 +1,4 @@
-<h2 align="center">I build systems that don’t break under pressure.</h2>
+<h3 align="center">I build systems that don’t break under pressure.</h3>
 
 <h3 align="center">Backend, distributed systems, and the kind of problems you don’t notice until they hurt.</h3>
 
