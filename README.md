@@ -1,18 +1,18 @@
 <h1 align="center">Mauricio Castro</h1>
 
-<h3 align="center">I build systems that don’t break under pressure.</h3>
+<h2 align="center">I build systems that don’t break under pressure.</h2>
 
-<p align="center">
+<h4 align="center">
 Backend, distributed systems, and the kind of problems you don’t notice until they hurt.
-</p>
+</h4>
 
-<p align="center">
+<h4 align="center">
 I keep things simple. Until simple stops working.
-</p>
+</h4>
 
-<p align="center">
+<h4 align="center">
 Off-hours: astrophotography and thinking about how things could be built better.
-</p>
+</h4>
 
 ---
 
@@ -34,27 +34,27 @@ Off-hours: astrophotography and thinking about how things could be built better.
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java" height="30"/>
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte" height="30"/>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="30"/>
 </p>
 
 <h3 align="center">Data & Infra</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,aws,docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,aws,docker" height="30"/>
 </p>
 
 <h3 align="center">Tooling</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,selenium,vite,webpack,sketchup" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jest,selenium,vite,webpack,sketchup" height="30"/>
 </p>
 
 ---
