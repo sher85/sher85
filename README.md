@@ -1,10 +1,20 @@
-<h3 align="center">I build systems that don’t break under pressure.</h3>
+<h3 align="center">Mauricio here.</h3>
 
-<h3 align="center">Backend, distributed systems, and the kind of problems you don’t notice until they hurt.</h3>
+<h3 align="center">
+Most days: APIs, distributed systems, and performance.
+</h3>
 
-<h3 align="center">I keep things simple. Until simple stops working.</h3>
+<h3 align="center">
+Some days: fixing things that should’ve never gone down in the first place.
+</h3>
 
-<h3 align="center">Off-hours: astrophotography and thinking about how things could be built better.</h3>
+<h3 align="center">
+I care about innovation, frontier tech, and simplicity.
+</h3>
+
+<h3 align="center">
+When I’m off the keyboard — astrophotography, big ideas, and the occasional rabbit hole.
+</h3>
 
 ---
 
